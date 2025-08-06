@@ -1,7 +1,9 @@
 # 💰 Sistema Bancário em Python
 
 Projeto desenvolvido durante o curso de Programação Orientada a Objetos (POO) da Fundação Bradesco, com o objetivo de praticar e consolidar conceitos de POO utilizando Python.
-
+## Ferramentas utilizadas
+- PyCharm
+- Anaconda
 ## 📚 Objetivo
 Criar um sistema bancário simples com funcionalidades básicas, utilizando os princípios de orientação a objetos, como:
 - Encapsulamento
